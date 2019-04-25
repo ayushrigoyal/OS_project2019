@@ -2,8 +2,8 @@
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
-#include<fcntl.h>//header for file operation calls if needed
-#include<sys/types.h>//header for system calls 
+#include<fcntl.h>
+#include<sys/types.h> 
 
 int main()
 {
